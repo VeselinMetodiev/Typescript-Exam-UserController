@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Smith",
+      "username": "john",
+      "password": "john123",
+      "role": "ADMIN"
+    },
+    {
+      "gender": "sdfdsfds",
+      "userRole": 0,
+      "description": "sdfsdfds",
+      "status": 0,
+      "registrationTimestamp": "2022-08-10T09:05:01.703Z",
+      "lastModificationTimestamp": "2022-08-10T09:05:01.703Z",
+      "id": 2
+    },
+    {
+      "gender": "Male",
+      "userRole": 0,
+      "description": "wefewfew",
+      "status": 0,
+      "registrationTimestamp": "2022-08-10T09:07:11.336Z",
+      "lastModificationTimestamp": "2022-08-10T09:07:11.336Z",
+      "id": 3
+    },
+    {
+      "firstName": "ves",
+      "lastName": "fdsfds",
+      "username": "dsfdsf",
+      "gender": "dsfds",
+      "userRole": 0,
+      "userPicture": "dsfsdfds",
+      "description": "dsfdsf",
+      "status": 0,
+      "registrationTimestamp": "2022-08-10T09:08:45.537Z",
+      "lastModificationTimestamp": "2022-08-10T09:08:45.537Z",
+      "id": 4
+    },
+    {
+      "firstName": "dsfgdsg",
+      "lastName": "fdgdfgdf",
+      "username": "fdgdfgfd",
+      "gender": "fdgdfgdf",
+      "userRole": 0,
+      "userPicture": "dfgfdg",
+      "description": "dfgdfgd",
+      "status": 0,
+      "registrationTimestamp": "2022-08-10T09:09:36.552Z",
+      "lastModificationTimestamp": "2022-08-10T09:09:36.552Z",
+      "id": 5
+    },
+    {
+      "firstName": "dsfdsf",
+      "lastName": "dsfsdf",
+      "username": "dsfsd",
+      "password": "dsfdsfs",
+      "gender": "dsfds",
+      "userRole": 0,
+      "userPicture": "dsfsdf",
+      "description": "dsfsdfds",
+      "status": 0,
+      "registrationTimestamp": "2022-08-10T09:10:32.603Z",
+      "lastModificationTimestamp": "2022-08-10T09:10:32.603Z",
+      "id": 6
+    },
+    {
+      "firstName": "vesko",
+      "lastName": "vesko",
+      "username": "vesko",
+      "password": "vesko123",
+      "gender": "Male",
+      "userRole": 0,
+      "userPicture": "no",
+      "description": "no",
+      "status": 0,
+      "registrationTimestamp": "2022-08-10T09:23:29.349Z",
+      "lastModificationTimestamp": "2022-08-10T09:23:29.349Z",
+      "id": 7
+    },
+    {
+      "firstName": "Veselin",
+      "lastName": "Metodiev",
+      "username": "vekata",
+      "password": "vesko123",
+      "gender": "Male",
+      "userRole": 0,
+      "userPicture": "sdfsf",
+      "description": "dfdsfs",
+      "status": 0,
+      "registrationTimestamp": "2022-08-10T09:31:39.247Z",
+      "lastModificationTimestamp": "2022-08-10T09:31:39.247Z",
+      "id": 8
+    },
+    {
+      "firstName": "Gosho",
+      "lastName": "sd",
+      "username": "ssssss",
+      "password": "ssssss",
+      "gender": "dss",
+      "userRole": "User",
+      "userPicture": "sssss",
+      "description": "sssss",
+      "status": 0,
+      "registrationTimestamp": "2022-08-10T09:36:43.280Z",
+      "lastModificationTimestamp": "2022-08-10T09:36:43.280Z",
+      "id": 9
+    },
+    {
+      "firstName": "ertreg",
+      "lastName": "fgdfg",
+      "username": "dfgdfg",
+      "password": "dfgfdg",
+      "gender": "dfgdfg",
+      "userRole": "User",
+      "userPicture": "dfgfdg",
+      "description": "dfgdfg",
+      "status": 0,
+      "registrationTimestamp": "2022-08-10T09:37:37.279Z",
+      "lastModificationTimestamp": "2022-08-10T09:37:37.279Z",
+      "id": 10
+    },
+    {
+      "firstName": "dfsd",
+      "lastName": "dsfdsf",
+      "username": "dsfds",
+      "password": "dsfds",
+      "gender": "dsfds",
+      "userRole": "User",
+      "userPicture": "sdfds",
+      "description": "sdfds",
+      "status": 0,
+      "registrationTimestamp": "2022-08-10T10:02:01.873Z",
+      "lastModificationTimestamp": "2022-08-10T10:02:01.873Z",
+      "id": 11
+    }
+  ]
+}
